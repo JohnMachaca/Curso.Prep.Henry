@@ -40,7 +40,7 @@ describe('nuevaString', function() {
     expect(typeof nuevaString).toBe('string');
   });
 });
-
+//hola
 describe('nuevoNum', function() {
   it('Deberia ser un numero', function() {
     expect(typeof nuevoNum).toBe('number');
@@ -52,7 +52,7 @@ describe('nuevoBool', function() {
     expect(typeof nuevoBool).toBe('boolean');
   });
 });
-
+//hi
 describe('nuevaResta', function() {
   it('Deberia ser un booleano', function() {
     expect(nuevaResta).toBe(true);
